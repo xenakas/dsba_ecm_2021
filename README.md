@@ -1,6 +1,6 @@
 # Elements of econometrics 2021-2022
 
-- [Link](https://docs.google.com/spreadsheets/d/1z9EPHsjf1KSjl-iyPuLHLX9mLgSwKQCgBxybnjTajJ0/edit?usp=sharing) for the Spreadsheet with Econometrics **Grades**
+- [Link](https://docs.google.com/spreadsheets/d/1z9EPHsjf1KSjl-iyPuLHLX9mLgSwKQCgBxybnjTajJ0/edit?usp=sharing) for the Spreadsheet with Econometrics **Grades**.
 
 - [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the **book** ``4th edition of Dougherty, Introduction to econometrics'' and other related materials. 
 
