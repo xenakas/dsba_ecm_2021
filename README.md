@@ -2,7 +2,7 @@
 
 - [Link](https://docs.google.com/spreadsheets/d/1z9EPHsjf1KSjl-iyPuLHLX9mLgSwKQCgBxybnjTajJ0/edit?usp=sharing) for the Spreadsheet with Econometrics **Grades**.
 
-- [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the **book** ``4th edition of Dougherty, Introduction to econometrics'' and other related materials. 
+- [Link](https://drive.google.com/drive/folders/1-QEyWWtG0puEV_D6gbJytzo6V1wZh_d0?usp=sharing) for the books and other related materials. 
 
 - [Link](https://drive.google.com/drive/folders/11tZw7iNH3TmmapRAzt0ge2xiEF3SFy03?usp=sharing) for **presentations** and **lecture notes**.
 
